@@ -754,7 +754,8 @@ h2 {
   padding: 40px;
 }
 
-.contact-container form input {
+.contact-container form input,
+.contact-container form textarea {
   padding: 6px;
 }
 
