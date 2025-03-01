@@ -163,11 +163,12 @@ h2 {
   position: absolute;
   left: 50%;
   transform: translate(-50%);
+  width: 100%;
 }
 
 .menu-social-icons i {
   color: #fff;
-  font-size: 26px;
+  font-size: 36px;
   margin: 20px 8px;
 }
 
